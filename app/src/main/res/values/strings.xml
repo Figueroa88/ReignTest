@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReignTest</string>
+    <string name="general_progress_bar_text_loading">Cargando...</string>
+    <string name="general_data_not_found">No se encontraron elementos para mostrar</string>
+</resources>
